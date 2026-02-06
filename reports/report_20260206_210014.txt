@@ -1,0 +1,20 @@
+
+AI EARLY DISEASE WARNING REPORT
+------------------------------
+Date: 2026-02-06 21:00:14
+Village: Sample Village
+
+Risk Score: 64
+Status: EMERGENCY
+
+Reasons:
+
+- School absenteeism increased
+- Medicine sales spiked
+- Water quality abnormal
+
+
+Recommended Action:
+- Increase medical stock
+- Deploy health workers
+- Issue public advisory
