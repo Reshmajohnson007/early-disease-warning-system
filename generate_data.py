@@ -3,7 +3,7 @@ import numpy as np
 
 np.random.seed(42)
 
-DAYS = 20000
+DAYS = 500
 dates = pd.date_range(start="2000-01-01", periods=DAYS)
 
 # ---------- SCHOOL ATTENDANCE ----------
